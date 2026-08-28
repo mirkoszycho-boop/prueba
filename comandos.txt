@@ -1,0 +1,24 @@
+mirko@mirko MINGW64 ~/OneDrive/Escritorio/Proyectos/prueba (main)
+$ history
+    1  git clone
+    2  mirko@mirko MINGW64 ~/OneDrive/Escritorio/Proyectos
+    3  $ git clone
+    4  git clone https://github.com/mirkoszycho-boop/prueba.git
+    5  ls
+    6  cd prueba
+    7  ls -a
+    8  touch index.html
+    9  ls
+   10  git status
+   11  git add index.html
+   12  git status
+   13  git add .
+   14  git status
+   15  git commit -m "PRUEBA DE COMMIT"
+   16   git config --global user.email "mirkoszycho@gmail.com"
+   17*
+   18  git commit -m "PRUEBA DE COMMIT"
+   19  git push origin main
+   20  code .
+   21  git pull origin main
+   22  history
